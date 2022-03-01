@@ -6,6 +6,8 @@
 ### VisualStudioCode ###
 bin/
 obj/
+.vscode
+
 
 # Local History for Visual Studio Code
 .history/

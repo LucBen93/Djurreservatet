@@ -4,9 +4,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode
 
 ### VisualStudioCode ###
-bin/
-obj/
-.vscode
+bin/*
+obj/*
+.vscode/*
 
 
 # Local History for Visual Studio Code
